@@ -4,7 +4,7 @@ import { Link } from 'react-router'
 
 var mainData = [
 			{
-			   sales:57,
+			   sales:67,
 			   byDate:15,
 			   refund:5,
 			   deposit:6
