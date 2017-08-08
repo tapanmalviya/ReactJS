@@ -1,0 +1,71 @@
+
+body{
+	margin:0px;
+}
+.menu {
+    padding: 1px 0px 1px 15px;
+    background-color: #434343;
+    color: white;
+}
+
+
+.leftMenu {
+    background-color: #434343;
+    width: 210px;
+    height: 889px;
+}
+
+ul{
+	margin: 0px;
+    padding: 20px;
+    list-style: none;
+}
+
+ul li {
+    padding: 10px;
+    border-bottom: 1px solid black;
+	color:#ddd;
+}
+
+.salesSub{
+	display:none;
+}
+
+.expensesSub{
+	display:none;
+}
+
+.inventorySub{
+	display:none;
+}
+
+.itemSub{
+	display:none;
+}
+
+/* span { */
+    /* float: right; */
+/* } */
+.click {
+    position: absolute;
+    left: 200px;
+    background: #434343;
+    padding: 10px;
+    margin-top: 10px;
+	color:white;
+}
+
+.toggleMenu{
+	width:50px;
+}
+
+.toggleClick{
+	left:50px;
+}
+
+.col-lg-2 {
+    padding: 0px;
+}
+a{
+	color:#ddd;
+}
