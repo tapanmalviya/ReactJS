@@ -1,0 +1,24 @@
+{
+	"transection": {
+		"sales": "57",
+		"byDate": "15",
+		"refund": "5",
+		"deposit": "6"
+	},
+	"expenses": {
+		"expenses": "100",
+		"marketPlaceFee": "50",
+		"shipping": "7"
+	},
+	"inventory": {
+		"inventory": "16",
+		"outOfSync": "4"
+	},
+	"items": {
+		"item": "177",
+		"salesChannel": "10",
+		"xero": "17",
+		"mapped": "2",
+		"hidden": "8"
+	}
+}
